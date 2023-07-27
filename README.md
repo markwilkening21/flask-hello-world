@@ -1,9 +1,12 @@
 # README
 
-This is the [Flask](http://flask.pocoo.org/) [quick start](http://flask.pocoo.org/docs/1.0/quickstart/#a-minimal-application) example for [Render](https://render.com).
-
-The app in this repo is deployed at [https://flask.onrender.com](https://flask.onrender.com).
-
-## Deployment
-
-Follow the guide at https://render.com/docs/deploy-flask.
+Mark Wilkening
+CSPB-3308 Lab 10 Submission 
+July 27, 2023
+markwilkening21
+https://mjw-on-render.onrender.com/
+https://mjw-on-render.onrender.com/db_test
+https://mjw-on-render.onrender.com/db_create
+https://mjw-on-render.onrender.com/db_insert
+https://mjw-on-render.onrender.com/db_select
+https://mjw-on-render.onrender.com/db_drop
